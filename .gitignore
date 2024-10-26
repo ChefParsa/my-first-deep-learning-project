@@ -1,3 +1,5 @@
 __pycache__/
 flagged/
+ResNet_custom/checkpoint/
+yolo_on_custom_dataset/
 
